@@ -1,0 +1,1 @@
+# Javascript_Data_Types_Typeof_Operator
